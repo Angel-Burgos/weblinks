@@ -1,0 +1,19 @@
+[{"grupo": "Grupo1",
+           "items": [{"text": "text1-1", "link":"www.google.com"},
+                     {"text": "text1-2", "link":"www.marca.com"},
+                     {"text": "text1-3", "link":"www.preferente.com"},
+                     {"text": "text1-4", "link":"www.msn.com"}
+                     ]},
+ {"grupo": "Grupo 2",
+           "items": [{"text": "text2-1", "link":"https://www.google.com"},
+                     {"text": "text2-2", "link":"https://www.marca.com"},
+                     {"text": "text2-3", "link":"https://www.preferente.com"},
+                     {"text": "text2-4", "link":"https://www.msn.com"}
+                     ]},
+ {"grupo": "Grupo 3",
+           "items": [{"text": "text3-1", "link":"www.google.com"},
+                     {"text": "text3-2", "link":"www.marca.com"},
+                     {"text": "text3-3", "link":"www.preferente.com"},
+                     {"text": "text3-4", "link":"www.msn.com"}
+                     ]}
+]
